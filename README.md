@@ -14,7 +14,7 @@
 <details>
   <summary> 👨‍💻 Mais sobre mim</summary>
 
-   - Tenho experiência com JavaScript, Python, C e C#.
+   - Tenho experiência com JavaScript, Node.js, SQL, PHP, Python, C e C#.
 
 </details>
 
@@ -36,12 +36,16 @@
         <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
     </figure>
      <figure>
-        <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
-        <figcaption style="display: block; text-align: center;">PHP</figcaption>
+        <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
+        <figcaption style="display: block; text-align: center;">Node.js</figcaption>
     </figure>
-    <figure>
+     <figure>
         <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
         <figcaption style="display: block; text-align: center;">SQL</figcaption>
+    </figure>
+     <figure>
+        <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+        <figcaption style="display: block; text-align: center;">PHP</figcaption>
     </figure>
     <figure>
         <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
