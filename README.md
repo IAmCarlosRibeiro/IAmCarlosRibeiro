@@ -35,12 +35,12 @@
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
     </figure>
-    <figure>
-        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+     <figure>
+        <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
         <figcaption style="display: block; text-align: center;">PHP</figcaption>
     </figure>
     <figure>
-        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+        <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
         <figcaption style="display: block; text-align: center;">SQL</figcaption>
     </figure>
     <figure>
